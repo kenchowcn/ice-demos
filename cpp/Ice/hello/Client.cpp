@@ -5,7 +5,7 @@
 // **********************************************************************
 
 #include <Ice/Ice.h>
-#include <Hello.h>
+#include <HelloI.h>
 
 using namespace std;
 using namespace Demo;
